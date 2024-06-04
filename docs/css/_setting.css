@@ -1,0 +1,29 @@
+
+/* *
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.page {
+
+}
+.page__body {
+  min-width: 390px;
+  font-family: var(--font-family);
+}
+.container {
+  margin: 0 auto;
+  max-width: 1310px;
+  padding: 0 10px;
+}
+.list-reset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.btn-reset {
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+} */
